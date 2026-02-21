@@ -49,7 +49,7 @@ Els exercicis estan organitzats per carpetes temàtiques seguint el progrés de 
 
 1. **Clonar el repositori**:
 ```bash
-git clone https://github.com/el-teu-usuari/nom-del-repositori.git
+git clone https://github.com/Sgallartfanlo/Exercicis-de-Progamacio
 
 ```
 
@@ -76,5 +76,3 @@ source venv/bin/activate  # En Linux/macOS
 **Llenguatge**: Python 3
 
 ---
-
-### Vols que t'ajudi a redactar una explicació específica per a la secció de "Anàlisi descendent" o "Àmbit de les variables"?
