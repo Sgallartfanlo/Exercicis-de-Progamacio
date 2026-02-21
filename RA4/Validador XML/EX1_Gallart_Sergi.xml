@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<llibreria>
+    <llibre id="1">
+        <titol>El Quixot</titol>
+        <autor>Miguel de Cervantes</autor>
+        <preu moneda="EUR">20.00</preu>
+    </llibre>
+    <llibre id="2">
+        <titol>1984</titol>
+        <autor>George Orwell</autor>
+        <preu moneda="USD">15.00</preu>
+    </llibre>
+</llibreria>
