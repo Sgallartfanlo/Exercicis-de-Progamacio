@@ -1,1 +1,0 @@
-print('¡Hola Mon, soc en Sergi!')
