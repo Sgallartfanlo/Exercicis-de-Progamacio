@@ -1,0 +1,5 @@
+data=input("Introdueix una data en el següent format: dd/mm/aaaa ")
+dia,mes,any=data.split("/")
+print("Dia:",dia)
+print("Mes:",mes)
+print("Any:",any)
