@@ -1,0 +1,17 @@
+Justificaciò de les llibreries utilitzades:
+- Importo la llibreria datetime per poder treballar amb dates i establir el termini de les tasques.
+-Importo la llibreria colored i especificament termcolor, per donar al programa un aspecte visual molt mès atractiu com per exemple posar diferents textos amb diferents colors, com per exemple: verd pels missatges d'entrada, groc si el termini de la tasca es pel mateix dia o vermell si el termini de la tasca ja ha passat.
+-Importo la llibreria system i especificament os, per obtenir únicament la dunciò de netejar la pantalla, ja que li dona un aspecte mes clar.
+-Importo la llibreria time, per introduir temps d'espera en diferents parts del codi.
+
+Justificaciò de les Funcions utilitzades:
+- La funció main() és la funció principal del programa, és on s'inicia tot el programa i s'executen totes les funcions.
+- La funció afegir_tasca() és la funció que permet afegir tasques a la llista de tasques, i a mès a mès mostra un missatge d'èxit cuan aquesta s'ha afegit.
+-La funció mostrar_tasques() és la funció que mostra totes les tasques que s 'han afegit a la llista de tasques.
+-La funció eliminar_tasca() és la funció que permet eliminar tasques de la llista de tasques, i a mès a mès mostra un missatge d'èxit.
+
+Funciò main():
+- Aquesta funció és la funció principal del programa, és on s'inicia tot el programa.
+- Aquesta funciò realitza tots els processos del programa, com per exemple afegir tasques, mostrar tasques.
+-A part es l'encarregada de mostrar el menu principal del programa i de demanar a l'usuari que esculli una opció  i Inicialitzar la llista de tasques. en forma de llista.
+-I també gestiona errors com per exemple si l'usuari vol eliminar una tasca que no existeix i si l'usuari introdueix una opciò no diferent en el menú.
