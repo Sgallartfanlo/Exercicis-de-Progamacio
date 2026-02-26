@@ -1,0 +1,12 @@
+
+1. Seleccionar una paraula aleatòria: Escull una paraula d'una llista predefinida mitjançant la funció "seleccionar_paraula()", que no té paràmetres i retorna una paraula com a cadena de text.
+
+2. Mostrar l'estat actual de la paraula: Mostra la paraula parcialment descoberta amb guions per les lletres no endevinades utilitzant la funció "mostrar_estat(paraula, lletres_endevinades)".
+
+3. Validar l'entrada de l'usuari: Assegura que l'usuari introdueixi una lletra vàlida (únic caràcter, lletra de l'alfabet, no endevinada abans) amb la funció "validar_entrada(entrada, lletres_endevinades)".
+
+4. Actualitzar intents: Redueix el nombre d'intents si la lletra no és present a la paraula amb la funció "actualitzar_intents(entrada, paraula, intents)".
+
+5. Comprovar si la paraula s'ha endevinat: Determina si totes les lletres de la paraula han estat descobertes amb la funció "comprovar_paraula_endevinada(paraula, lletres_endevinades)".
+
+6. Flux principal del joc: Gestiona el procés del joc (inicialització de variables, estat del joc, processar l'entrada de l'usuari, verificar continuïtat del joc) amb la funció "joc_del_penjat()", que no té paràmetres i mostra missatges en funció del resultat del joc.
